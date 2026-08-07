@@ -42,11 +42,7 @@ Workshop ini ditujukan untuk:
 | 1 | Mengenal Website |
 | 2 | Instalasi XAMPP |
 | 3 | Dasar PHP |
-| 4 | Variable |
-| 5 | Percabangan |
-| 6 | Perulangan |
-| 7 | Form |
-| 8 | Include |
+| 4 | Mini Project |
 
 ---
 
