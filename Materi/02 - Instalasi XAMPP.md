@@ -424,8 +424,7 @@ workshop-php/
 ├── index.php
 ├── tentang.php
 ├── galeri.php
-├── kontak.php
-└── pesan.txt
+└── kontak.php
 ```
 
 Namun untuk saat ini kita cukup memiliki:
@@ -513,9 +512,7 @@ Coba ubah isi program menjadi:
 <?php
 
 echo "Nama Saya ...";
-
 echo "<br>";
-
 echo "Saya Siap Belajar PHP!";
 
 ?>

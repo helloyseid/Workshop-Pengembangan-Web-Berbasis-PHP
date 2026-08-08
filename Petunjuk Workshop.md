@@ -83,8 +83,7 @@ workshop-php/
 ├── index.php
 ├── tentang.php
 ├── galeri.php
-├── kontak.php
-└── pesan.txt
+└── kontak.php
 ```
 
 ---

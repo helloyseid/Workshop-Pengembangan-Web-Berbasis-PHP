@@ -197,9 +197,7 @@ Menampilkan lebih dari satu teks:
 <?php
 
 echo "Halo";
-
 echo "<br>";
-
 echo "Selamat Belajar PHP";
 
 ?>
@@ -228,9 +226,7 @@ Contoh:
 <?php
 
 echo "Baris Pertama";
-
 echo "<br>";
-
 echo "Baris Kedua";
 
 ?>
@@ -300,9 +296,7 @@ Contoh:
 <h1>Belajar PHP</h1>
 
 <?php
-
 echo "<p>Selamat datang di Workshop PHP.</p>";
-
 ?>
 
 </body>
@@ -508,27 +502,19 @@ Sekarang coba gabungkan HTML dan PHP.
 <html>
 
 <head>
-
-<title>Website Pertama</title>
-
+    <title>Website Pertama</title>
 </head>
 
 <body>
+    <h1>Selamat Datang</h1>
+    <p>Ini dibuat menggunakan HTML.</p>
 
-<h1>Selamat Datang</h1>
-
-<p>Ini dibuat menggunakan HTML.</p>
-
-<?php
-
-echo "<h2>Halo dari PHP!</h2>";
-
-echo "<p>PHP berhasil dijalankan.</p>";
-
-?>
+    <?php
+    echo "<h2>Halo dari PHP!</h2>";
+    echo "<p>PHP berhasil dijalankan.</p>";
+    ?>
 
 </body>
-
 </html>
 ```
 

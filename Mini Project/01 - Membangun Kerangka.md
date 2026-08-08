@@ -89,8 +89,7 @@ Mini Project Bagian 2
 Mini Project Bagian 3
 │
 ├── Form
-├── $_POST
-└── Menyimpan Pesan
+└── $_POST
         ↓
 Mini Project Bagian 4
 │
@@ -176,7 +175,6 @@ Untuk saat ini kita belum membuat:
 tentang.php
 galeri.php
 kontak.php
-pesan.txt
 ```
 
 File tersebut akan kita buat pada bagian berikutnya.
